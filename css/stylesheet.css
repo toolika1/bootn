@@ -25,11 +25,12 @@ body{
    border-radius: 10px;
   box-shadow: 9px 5px #999;
 }
-
+/*styling glyphicon*/
 .logo{
 	color: rgb(90,90,90);
 	font-size: 50px;
 }
+/*styling of footer*/
 footer{
   background: url(../img/footer.jpg) ;
   height: 200px;
@@ -57,18 +58,20 @@ header .glyphicon {
 
 }
 
-
+/*styling of slider2*/
 .slide2{
 	height: 400px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 
 }
+/*setting margin for the team*/
 #team{
-	margin-top: 20px;
+	margin-top: 10px;
      background: url(../img/gal.jpg) ;
      color: white;
 
 }
+/*styling of carousel*/
 .carousel-control.right, .carousel-control.left {
    
     color: black;
@@ -95,6 +98,7 @@ header .glyphicon {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
     }
 }
+/*styling to make it center align of images of carosel*/
 .it{
     background-color:white;
     margin-left:auto;
@@ -116,6 +120,7 @@ header .glyphicon {
 	background-color: rgb(90,90,90);
 	color: white;
 }
+/*panel styling*/
 
 .panel {
     border: 1px solid rgb(200,200,200); 
